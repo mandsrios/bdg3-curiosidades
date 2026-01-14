@@ -21,20 +21,6 @@ O site é uma demonstração de habilidades em desenvolvimento web, utilizando t
   - Transições fluidas
 - **Navegação Intuitiva**: Menu simples com links para Raças e Sobre
 
-## 🎯 Raças Incluídas
-
-- Humano
-- Elfo (Alto, Floresta)
-- Drow
-- Meio-Elfo
-- Meio-Orc
-- Halfling (Pés Leves, Coração Forte)
-- Anão (Escudo, Cinzento, Dourado)
-- Gnomo (Floresta, Rochas, Profundezas)
-- Tiefling (Asmodeus, Mefistofeles, Zariel)
-- Githyanki
-- Draconato (Vermelho, Azul, Branco, Preto, Verde, Bronze, Cobre, Prateado, Dourado)
-
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5**: Estrutura semântica e acessível
@@ -63,13 +49,6 @@ O design se adapta automaticamente aos diferentes dispositivos:
 - **Desktop (>1024px)**: Layout horizontal com imagem e texto lado a lado
 - **Tablet (768px-1024px)**: Ajustes proporcionais e centralização
 - **Mobile (<768px)**: Layout vertical, imagem no topo, texto centralizado
-
-## 🎨 Paleta de Cores e Design
-
-- **Fundo Principal**: Preto (#000) para contraste
-- **Destaques**: Tons dourados (#b38d3b, #916301) para elementos interativos
-- **Texto**: Branco (#fff) para legibilidade
-- **Efeitos**: Sombras, bordas arredondadas e transparências
 
 ## 📁 Estrutura do Projeto
 
@@ -121,3 +100,4 @@ Este projeto é desenvolvido para fins educacionais e de demonstração. As imag
 ---
 
 **Criado com ❤️ para fãs de Baldur's Gate 3 e Dungeons & Dragons**
+
