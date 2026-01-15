@@ -1,6 +1,9 @@
-# BDG3 Curiosidades
+# ⚔️ BDG3 Curiosidades ⚔️
 
 Uma página web interativa dedicada às curiosidades de Baldur's Gate 3, focada nas raças jogáveis de Dungeons & Dragons, com um design moderno e responsivo.
+
+![BDG3 Curiosidades Preview](./preview.png)
+![BDG3 Curiosidades Preview2](./preview2.png)
 
 ## 📖 Sobre o Projeto
 
@@ -100,4 +103,5 @@ Este projeto é desenvolvido para fins educacionais e de demonstração. As imag
 ---
 
 **Criado com ❤️ para fãs de Baldur's Gate 3 e Dungeons & Dragons**
+
 
